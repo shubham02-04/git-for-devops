@@ -65,4 +65,6 @@
   65 & '.\git for devops\'                                                                                                                                    
   66 cd '.\git for devops\'                                                                                                                                   
   67 dir                                                                                                                                                      
-  68 git status                                                          
+  68 git status       
+
+adding some changes
