@@ -1,0 +1,68 @@
+. "c:\Users\Shubham\AppData\Local\Programs\Microsoft VS Code\6928394f91\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellInte...
+   2 & C:/Users/Shubham/AppData/Roaming/uv/python/cpython-3.14.6-windows-x86_64-none/python.exe "c:/Users/Shubham/Desktop/git for devops/testing.py"          
+   3 git init                                                                                                                                                 
+   4 ls- a                                                                                                                                                    
+   5 dir -a                                                                                                                                                   
+   6 ll                                                                                                                                                       
+   7 dir                                                                                                                                                      
+   8 ls -la                                                                                                                                                   
+   9 dir /a                                                                                                                                                   
+  10 dir/a                                                                                                                                                    
+  11 git status                                                                                                                                               
+  12 git add .\testing.py                                                                                                                                     
+  13 git status                                                                                                                                               
+  14 git rm --cached .\testing.py                                                                                                                             
+  15 git status                                                                                                                                               
+  16 git add .                                                                                                                                                
+  17 git status                                                                                                                                               
+  18 git commit -m "added testing file"                                                                                                                       
+  19 git status                                                                                                                                               
+  20 rm .\testing.py                                                                                                                                          
+  21 dir                                                                                                                                                      
+  22 git status                                                                                                                                               
+  23 git restore testing.py                                                                                                                                   
+  24 git status                                                                                                                                               
+  25 git rm --cached .\testing.py                                                                                                                             
+  26 git status                                                                                                                                               
+  27 git restore --staged .\testing.py                                                                                                                        
+  28 git status  
+    29 history                                                                                                                                                  
+  30 git status                                                                                                                                               
+  31 git status                                                                                                                                               
+  32 git add .\git_commands.txt                                                                                                                               
+  33 git status                                                                                                                                               
+  34 git commit -m "new commit"                                                                                                                               
+  35 git status                                                                                                                                               
+  36 git remote add origin https://github.com/shubham02-04/git-for-devops.git                                                                                 
+  37 git remote -v                                                                                                                                            
+  38 gti remote set-url origin https://@github.com/shubham02-04/git-for-devops.git                                    
+  39 git remote set-url origin https://@github.com/shubham02-04/git-for-devops.git                                    
+  40 git remote -v                                                                                                                                            
+  41 git push origin master                                                                                                                                   
+  42 git add .\index.txt                                                                                                                                      
+  43 git status                                                                                                                                               
+  44 git commit -m "adding index.txt"                                                                                                                         
+  45 git status                                                                                                                                               
+  46 git push origin master                                                                                                                                   
+  47 git remote -v                                                                                                                                            
+  48 cd                                                                                                                                                       
+  49 cd C:\Users\Shubham\Desktop\practice\                                                                                                                    
+  50 mkdir git-demo-new                                                                                                                                       
+  51 dir                                                                                                                                                      
+  52 cd .\git-demo-new\                                                                                                                                       
+  53 dir                                                                                                                                                      
+  54 git clone https://github.com/shubham02-04/git-for-devops.git                                                                                             
+  55 dir                                                                                                                                                      
+  56 dir                                                                                                                                                      
+  57 cd .\git-for-devops\                                                                                                                                     
+  58 dir                                                                                                                                                      
+  59 cd                                                                                                                                                       
+  60 cd ..                                                                                                                                                    
+  61 cd                                                                                                                                                       
+  62 cd                                                                                                                                                       
+  63 cd ..                                                                                                                                                    
+  64 cd ..                                                                                                                                                    
+  65 & '.\git for devops\'                                                                                                                                    
+  66 cd '.\git for devops\'                                                                                                                                   
+  67 dir                                                                                                                                                      
+  68 git status                                                          
