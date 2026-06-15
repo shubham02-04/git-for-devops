@@ -67,4 +67,4 @@
   67 dir                                                                                                                                                      
   68 git status       
 
-adding some changes
+adding some changes in commands
